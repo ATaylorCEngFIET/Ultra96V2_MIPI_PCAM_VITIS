@@ -1,0 +1,28 @@
+{
+  "version": "2019.2",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "display_port"
+    }
+  ],
+  "systems": [
+    {
+      "name": "display_port_app_system",
+      "platform": "C:/hdl_projects/display_port/workspace/display_port/export/display_port/display_port.xpfm",
+      "sysConfig": "display_port",
+      "applications": [
+        {
+          "name": "display_port_app",
+          "platform": "C:/hdl_projects/display_port/workspace/display_port/export/display_port/display_port.xpfm",
+          "platformPath": "C:\\hdl_projects\\display_port\\workspace\\display_port\\export\\display_port",
+          "sysConfig": "display_port",
+          "domain": "standalone_domain",
+          "system": "display_port_app_system"
+        }
+      ],
+      "platformPath": "C:\\hdl_projects\\display_port\\workspace\\display_port\\export\\display_port"
+    }
+  ],
+  "others": []
+}

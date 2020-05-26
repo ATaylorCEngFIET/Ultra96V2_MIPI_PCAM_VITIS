@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="display_port_app" location="C:/hdl_projects/display_port/workspace/display_port_app" platform="C:/hdl_projects/display_port/workspace/display_port/export/display_port/display_port.xpfm" platformUID="xilinx:ultra96::0.0(custom)" systemProject="display_port_app_system" sysConfig="display_port" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="11892ff8d67a425705a93b841c94122d">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.727211230">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.1926553015" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

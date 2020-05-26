@@ -1,0 +1,7 @@
+/*display_port*/
+the_ROM_image:
+{
+  [bootloader, destination_cpu=a53-0]<display_port/boot/fsbl.elf>
+  [destination_device=pl] <bitstream>
+  [destination_cpu=a53-0, exception_level=el-3] <elf>
+}
